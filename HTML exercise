@@ -1,0 +1,12 @@
+<h1 class = "heading">Hello dear readers!</h1>
+<h3 class = "heading">I hope you'll enjoy reading my html exercises.</h3>
+<p> This is a paragraph of text about nothing </p>
+<b>And this text is using the bold tag.</b>
+<i>While this text is written using italic.</i>
+<ul id = "niceList">
+    <li>First item</li>
+    <li>Second item</li>
+    <li>Third item</li>
+</ul>
+<p>If those were <strong>css</strong> exercises I would <em>>change</em> this list's style but it's just html 
+based exercise so let's leave it at that.</p>
